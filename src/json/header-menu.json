@@ -1,0 +1,238 @@
+{
+    "categories": [
+        {
+            "id": "women",
+            "name": "Women",
+            "featured": [
+                {
+                    "name": "New Arrivals",
+                    "href": "/page-not-found",
+                    "imageSrc": "https://tailwindui.com/img/ecommerce-images/mega-menu-category-01.jpg",
+                    "imageAlt": "Models sitting back to back, wearing Basic Tee in black and bone."
+                },
+                {
+                    "name": "Basic Tees",
+                    "href": "/page-not-found",
+                    "imageSrc": "https://tailwindui.com/img/ecommerce-images/mega-menu-category-02.jpg",
+                    "imageAlt": "Close up of Basic Tee fall bundle with off-white, ochre, olive, and black tees."
+                }
+            ],
+            "sections": [
+                {
+                    "id": "clothing",
+                    "name": "Clothing",
+                    "items": [
+                        {
+                            "name": "Tops",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Dresses",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Pants",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Denim",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Sweaters",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "T-Shirts",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Jackets",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Activewear",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Browse All",
+                            "href": "/page-not-found"
+                        }
+                    ]
+                },
+                {
+                    "id": "accessories",
+                    "name": "Accessories",
+                    "items": [
+                        {
+                            "name": "Watches",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Wallets",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Bags",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Sunglasses",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Hats",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Belts",
+                            "href": "/page-not-found"
+                        }
+                    ]
+                },
+                {
+                    "id": "brands",
+                    "name": "Brands",
+                    "items": [
+                        {
+                            "name": "Full Nelson",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "My Way",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Re-Arranged",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Counterfeit",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Significant Other",
+                            "href": "/page-not-found"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "men",
+            "name": "Men",
+            "featured": [
+                {
+                    "name": "New Arrivals",
+                    "href": "/page-not-found",
+                    "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-04-detail-product-shot-01.jpg",
+                    "imageAlt": "Drawstring top with elastic loop closure and textured interior padding."
+                },
+                {
+                    "name": "Artwork Tees",
+                    "href": "/page-not-found",
+                    "imageSrc": "https://tailwindui.com/img/ecommerce-images/category-page-02-image-card-06.jpg",
+                    "imageAlt": "Three shirts in gray, white, and blue arranged on table with same line drawing of hands and shapes overlapping on front of shirt."
+                }
+            ],
+            "sections": [
+                {
+                    "id": "clothing",
+                    "name": "Clothing",
+                    "items": [
+                        {
+                            "name": "Tops",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Pants",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Sweaters",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "T-Shirts",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Jackets",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Activewear",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Browse All",
+                            "href": "/page-not-found"
+                        }
+                    ]
+                },
+                {
+                    "id": "accessories",
+                    "name": "Accessories",
+                    "items": [
+                        {
+                            "name": "Watches",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Wallets",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Bags",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Sunglasses",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Hats",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Belts",
+                            "href": "/page-not-found"
+                        }
+                    ]
+                },
+                {
+                    "id": "brands",
+                    "name": "Brands",
+                    "items": [
+                        {
+                            "name": "Re-Arranged",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Counterfeit",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "Full Nelson",
+                            "href": "/page-not-found"
+                        },
+                        {
+                            "name": "My Way",
+                            "href": "/page-not-found"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "pages": [
+        {
+            "name": "Company",
+            "href": "/page-not-found"
+        },
+        {
+            "name": "Stores",
+            "href": "/page-not-found"
+        }
+    ]
+}

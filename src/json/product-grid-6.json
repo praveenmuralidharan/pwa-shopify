@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Tee",
+        "href": "#",
+        "imageSrc": "https://d3nn873nee648n.cloudfront.net/900x600/13278/220-SM464553.jpg",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$35",
+        "discountedPrice": "$45",
+        "color": "Black"
+    },
+    {
+        "id": 2,
+        "name": "Basic Tee",
+        "href": "#",
+        "imageSrc": "https://d3nn873nee648n.cloudfront.net/900x600/18626/220-SM847088.jpg",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$35",
+        "discountedPrice": "$45",
+        "color": "Black"
+    },
+    {
+        "id": 3,
+        "name": "Basic Tee",
+        "href": "#",
+        "imageSrc": "https://d3nn873nee648n.cloudfront.net/900x600/18626/120-SM847102.jpg",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$35",
+        "discountedPrice": "$45",
+        "color": "Black"
+    },
+    {
+        "id": 4,
+        "name": "Basic Tee",
+        "href": "#",
+        "imageSrc": "https://d3nn873nee648n.cloudfront.net/900x600/18649/20-SM848349.jpg",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$35",
+        "discountedPrice": "$45",
+        "color": "Black"
+    },
+    {
+        "id": 5,
+        "name": "Basic Tee",
+        "href": "#",
+        "imageSrc": "https://d3nn873nee648n.cloudfront.net/900x600/8525/1-SM216383.jpg",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$35",
+        "discountedPrice": "$45",
+        "color": "Black"
+    },
+    {
+        "id": 6,
+        "name": "Basic Tee",
+        "href": "#",
+        "imageSrc": "https://d3nn873nee648n.cloudfront.net/900x600/18904/1-SM876985.jpg",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": "$35",
+        "discountedPrice": "$45",
+        "color": "Black"
+    }
+]
